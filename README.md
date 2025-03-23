@@ -1,1 +1,3 @@
-# goit-pythonweb-hw-04
+# Running
+
+python3 main.py --source ./source --output ./output
